@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Titillium+Web:ital,wght@0,400;0,600;0,700;1,300&display=swap');
+
+*{
+
+  font-family: 'Lobster', cursive;
+font-family: 'Titillium Web', sans-serif;
+}
+.underline{
+  border-top: 2px solid rgba(0, 0, 0, 0.316);
+  width: 5%;
+  margin: 10px auto;
+  }
+
+header{
+  background-color:#87509c;
+  } 
+#nev-under-part{
+  background-color:#87509c;
+  color: white;
+}
+.nav-link:hover{
+  border-radius: 5px;
+  background-color: rgba(9, 133, 110, 0.496)  !important;
+  
+}
+.header-btn{
+  background-color: #eb7d4b !important;
+}
+.header-btn:hover{
+  background-color: rgba(88, 29, 236, 0.366) !important;
+}
+
+/* sarvice  */
+#sarvice{
+  background-color: #17c2a4;
+  }
+#sarvice .box img{
+  height: 130px;
+}
+/* team  */
+#team{
+  background: #e7f1f8;
+  }
+#team .card{
+  background: #e7f1f8;
+  border:  #e7f1f8;
+}
+.team-icon-box i:hover{
+   background-color: rgb(43, 6, 93) !important;
+}
+
+  
+/* skills  */
+#skills{
+  background: #ffffff;
+}
+ #skills .card{
+  border: #ffffff;
+} 
+ /* portfolio */
+ #portfolio{
+  background: #ffdd99;
+ }
+ 
+ #portfolio .card{
+  background:   #ffdd99;
+  border:    #ffdd99;
+}
+/* .portfolio-menu :hover{
+  color: #d74680;
+} */
+
+
+/* .portfolio-btn a{
+  text-decoration: none;
+} */
+#portfolio .btn {
+  background-color:#17c2a4 !important;
+  color: white;
+}
+#portfolio .btn:hover {
+  background-color:#1f099b !important;
+  color: white;
+}
+
+ /* about us  */
+ #aboutus{
+  background: #d74680;
+ 
+}
+/* contouch  */
+#contouch{
+  background: #3c5499;
+}
+#contouch input{
+ background-color: #273a71;
+  /* color: white; */
+}
+#contouch textarea{
+  background-color: #273a71;
+  border-color:#273a71 ;
+}
+#contouch input::placeholder,
+textarea::placeholder{
+  color: white;
+  border-color:#273a71 ;
+}
+#contouch input{
+  background-color: #273a71;
+  border-color:#273a71 ;
+}
+#contouch .btn {
+  background-color:#17c2a4 !important;
+  color: white;
+}
+#contouch .btn:hover {
+  background-color:#1f099b !important;
+  color: white;
+}
+/* footer  */
+
+#footer{
+  background: #344b8e;
+}
+.card-body{
+  background-color:  #344b8e;
+  border-color:  #344b8e !important;
+}
+
+.btn{
+  background-color: #3859bc58 !important;
+}
+.btn:hover{
+  background-color: #915c08 !important;
+}
+
+  
